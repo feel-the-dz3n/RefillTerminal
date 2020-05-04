@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefillTerminal", "RefillTerminal\RefillTerminal.csproj", "{FD48D0EF-1539-4507-AC71-AAC10467C9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefillTerminal.Tests", "RefillTerminal.Tests\RefillTerminal.Tests.csproj", "{1D67D529-0EBA-4CFF-8D3D-870B33355EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD48D0EF-1539-4507-AC71-AAC10467C9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD48D0EF-1539-4507-AC71-AAC10467C9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD48D0EF-1539-4507-AC71-AAC10467C9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD48D0EF-1539-4507-AC71-AAC10467C9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D67D529-0EBA-4CFF-8D3D-870B33355EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D67D529-0EBA-4CFF-8D3D-870B33355EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D67D529-0EBA-4CFF-8D3D-870B33355EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D67D529-0EBA-4CFF-8D3D-870B33355EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E35C6B0-D91E-45D2-9214-C8BF7C58E881}
+	EndGlobalSection
+EndGlobal
